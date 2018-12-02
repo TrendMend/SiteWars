@@ -9,3 +9,5 @@ Anything to your liking, preferably christmas related. Aboslutly NO Pornography,
 
 ##HTML Only!
 No php or anything like that. It will be automaticcaly removed.
+
+The site will be acsessible at https://www.trendmend.ca/sitewars/
